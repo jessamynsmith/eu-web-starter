@@ -3,6 +3,7 @@
   "private": "true",
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "jquery": "1.9.1 - 2"
+    "jquery": "1.9.1 - 2",
+    "jquery.serializeJSON": "^2.7.2"
   }
 }

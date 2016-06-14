@@ -9,6 +9,7 @@
   },
   "author": "Jessamyn Smith",
   "dependencies": {
+    "body-parser": "^1.15.1",
     "bower": "^1.7.9",
     "express": "~3.2.4"
   },
