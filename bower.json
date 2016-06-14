@@ -1,0 +1,8 @@
+{
+  "name": "eu-starter-project",
+  "private": "true",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "1.9.1 - 2"
+  }
+}
